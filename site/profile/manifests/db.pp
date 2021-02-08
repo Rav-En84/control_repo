@@ -1,2 +1,2 @@
-clas profile:db {
+clas profile::db {
 }
