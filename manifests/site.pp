@@ -1,6 +1,6 @@
 node default {
   }
-node 'master.puppet.vm' {
+node 'r7n-srv01' {
   include role::master_server
   }
 node /^web/ {
