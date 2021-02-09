@@ -1,6 +1,6 @@
 node default {
   }
-node 'r7n-srv01' {
+node 'r7nsrv01' {
   include role::master_server
   }
 node /^web/ {
